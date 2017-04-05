@@ -1,1 +1,7 @@
 * text=auto !eol
+/LICENSE -text
+/NOTICE -text
+/sample.txt -text
+trunk/LICENSE -text
+trunk/NOTICE -text
+trunk/sample.txt -text
